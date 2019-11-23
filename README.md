@@ -1,0 +1,2 @@
+# noun
+study some noun
